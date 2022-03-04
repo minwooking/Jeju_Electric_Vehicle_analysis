@@ -2,12 +2,14 @@
 # file 명
 # directory/
 data/*
+
 0301*.*
 *.xlsx
 20220301.*
 *.csv
 *.png
 *.zip
+*.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
