@@ -6,9 +6,7 @@ data/*
 *.xlsx
 20220301.*
 *.csv
-*.png
 *.zip
-*.pdf
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
