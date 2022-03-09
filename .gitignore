@@ -7,6 +7,7 @@ data/*
 20220301.*
 *.csv
 *.zip
+*.exe
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
